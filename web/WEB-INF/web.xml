@@ -1,0 +1,6 @@
+<web-app>
+    <display-name>HZSK Language Utilities 0.1</display-name>
+    <servlet>
+        <servlet-name>HZSK Language Utilities 0.1</servlet-name>
+    </servlet>
+</web-app>
