@@ -19,4 +19,4 @@ For instance, if you want to get the name of the language Japanese (jpn) in Ital
 
 It is also possible to test the webservice currently running on HZSK server by accessing URL formatted in a following way:
 
-https://www.corpora.uni-hamburg.de/apps/language-utilities/name?iso-639-3=jpn&lang=ita
+https://corpora.uni-hamburg.de/apps/language-utilities/name?iso-639-3=jpn&lang=ita
